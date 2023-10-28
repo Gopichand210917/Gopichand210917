@@ -7,11 +7,16 @@
 
 - 📫 How to reach me **gopichandmogaparti2109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing](https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing](https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gopichand-mogaparthi-528117173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gopichand-mogaparthi-528117173/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/gopichand.mogaparti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gopichand.mogaparti" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/gopi_chand_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/gopi_chand_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mogaparthigopic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mogaparthigopic1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/gopichand2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gopichand2109/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@gopichandmogaparti2109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@gopichandmogaparti2109" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
