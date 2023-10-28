@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopichand210917&label=Profile%20views&color=0e75b6&style=flat" alt="gopichand210917" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopichand210917" alt="gopichand210917" /></a> </p>
-
 - 📫 How to reach me **gopichandmogaparti2109@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing](https://drive.google.com/file/d/1KlrFDDAmaIy0WpfQ1iSpX-B8hYp0uQWh/view?usp=sharing)
